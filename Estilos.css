@@ -1,0 +1,12 @@
+h1 {
+    color: #46f40cb5;
+    text-align: center;
+    font-size: 60px;
+}
+
+.puntajes {
+    display: flex;
+    justify-content: space-around;
+    font-size: 30px;
+}
+
